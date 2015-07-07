@@ -9,7 +9,7 @@ tagline: Supporting tagline
 
     <li><span>05 Apr 2015</span> &raquo; <a href="http://36kr.com/p/5035285.html">IPO前奏？巴西旅游预订平台Hotel Urbano获Priceline6000万美元投资</a></li>
 
-    <li><span>11 Jan 2015</span> &raquo; <a href="/note/2015/01/11/the-awk-programming-language">The Awk Programming Language 笔记</a></li>
+    <li><span>11 Jan 2015</span> &raquo; <a href="http://36kr.com/p/5035273.html">如果让滴滴再造一个公交系统？</a></li>
 
     <li><span>28 Dec 2014</span> &raquo; <a href="/note/2014/12/28/rails-routing-from-the-outside-in">Rails Guides - Rails Routing from the Outside In</a></li>
 
